@@ -20,4 +20,4 @@ vim.opt.clipboard = "unnamedplus"
 vim.opt.rtp:append("~/.config/nvim")
 
 -- Default colorscheme
-vim.cmd("colorscheme binaryharbinger")
+vim.cmd("colorscheme akaiyama")
